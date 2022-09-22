@@ -1,20 +1,26 @@
+<!DOCTYPE html>
 <html>
 
 <head>
     <title>Galeri Sederhana</title>
     <style>
         body {
-            background-color: rgba(250, 236, 228, 0.938);
+            background: linear-gradient(#f44242, #1cb5e0);
+            color: white;
+            padding: 10rem 3rem;
+            margin: 4rem;
+            font-size: 20px;
+            /* background-color: rgba(250, 236, 228, 0.938); */
         }
 
         div.gallery {
             border: 3px solid #ccc;
             border-radius: 5%;
-            background-color: rgb(39, 155, 68);
+            background-color: rgb(255, 90, 90);
         }
 
         div.gallery:hover {
-            border: 3px solid rgb(39, 155, 68);
+            border: 3px solid rgb(243, 254, 27);
             background-color: rgb(0, 0, 0);
         }
 
@@ -74,6 +80,9 @@
 </head>
 
 <body>
+    <h1 align="center">
+        <bold>WELCOME TO</bold>
+    </h1>
 
     <h2 align="center">My Galery</h2>
 
