@@ -46,8 +46,8 @@
                     <img class="img-fluid rounded-circle" src="img/avatar.jpg">
                 </div>
                 <br>
-                <p>Hello! I am <strong>John Smith</strong>. I work as interface and front end developer. I have passion
-                    for pixel perfect, minimal and easy to use interfaces.</p>
+                <p>Hallo! saya <strong>Charles Bastian</strong>. Saya bekerja sebagai seorang desain grafis untuk sebuah
+                    organisasi masyarakat sampai saat ini dan masih berkuliah di sebuah kampus swata di Bandung .</p>
                 <a href="#" class="btn btn-outline-primary">Hire Me</a>
             </div>
         </section>
@@ -78,8 +78,8 @@
                                 <time class="period">08/2021 - 08/2022</time>
                             </div>
                         </div>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eget velit
-                            ultricies, feugiat est sed, efficitur nunc, vivamus vel accumsan dui.</p>
+                        <p class="text-muted">Pernah menjadi seorang desain grafis di salah satu lembaga pemmerintah
+                            pada tahun 2020 yaitu JKMC (Jaringan Katolik Melawan Covid).</p>
                     </div>
                     <div class="item">
                         <div class="row">
@@ -91,8 +91,9 @@
                                 <time class="period">08/2022 - Sekarang</time>
                             </div>
                         </div>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eget velit
-                            ultricies, feugiat est sed, efficitur nunc, vivamus vel accumsan dui.</p>
+                        <p class="text-muted">menjadi seorang desain grafis untuk salah satu ormas di bandung yaitu
+                            PMKRI bergabung pada tahun 2022 sebagai pengurus dan menjadi desain grafis untuk media
+                            sosial dan sebagainya.</p>
                     </div>
                 </div>
                 <div class="education group" id="education">
@@ -120,7 +121,8 @@
                                 <time class="period">09/2019 - Sekarang</time>
                             </div>
                         </div>
-                        <p class="text-muted">Setelah masuk.</p>
+                        <p class="text-muted">Setelah selesai menempuh masa SMA saya di tahun 2019, saya melanjutkan
+                            kuliah dan masuk salah satu kampus swasta di bandung sampai sekarang.</p>
                     </div>
                 </div>
                 <div class="group" id="skills">

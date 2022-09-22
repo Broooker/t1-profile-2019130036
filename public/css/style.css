@@ -2,10 +2,15 @@
 
 body{
      font-family: 'Lato', sans-serif;
+     /* background-image: url('../img/bg.png'); */
+     background-color: #0e0c00;
+     background-size: contain;
+     background-attachment: fixed;
+     /* background-size: cover; */
 }
 
 .page-navbar.navbar{
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.1);
 }
 
 .page-navbar .navbar-nav .nav-item a{
@@ -13,7 +18,7 @@ body{
 }
 
 .page-navbar.navbar-dark .navbar-nav .nav-link {
-    color: #fff;
+    color: rgb(255, 255, 255);
 }
 
 .page-navbar .logo{
@@ -22,26 +27,12 @@ body{
 
 .page-navbar.fixed-top + .page{
     padding-top: 62px;
-}
-
-.download-template{
-    color: #fff;
-    background-color: #ed36ad;
-    border: none;
-    font-weight: bold;
-    text-transform: uppercase;
-    font-size: 13px;
-    padding: 10px 24px;
-    border-radius: 40px;
-}
-
-.download-template:hover{
-    background-color: #fb5ec4;
+    color: rgb(255, 255, 255);
 }
 
 .gradient{
-    background: linear-gradient(120deg, #7f70f5, #0ea0ff);
-    color: #fff !important;
+    background: linear-gradient(120deg, #9d2b4b, #ff9e2e);
+    color: rgb(201, 199, 199) !important;
 }
 
 .cv-block{
@@ -108,7 +99,7 @@ body{
     float: none;
     font-weight: bold;
     margin-top: 4px;
-    color: #6c757d;
+    color: #ffffff;
     opacity: 0.8;
 }
 
@@ -147,7 +138,7 @@ body{
 
 .cv-block .info-card{
     padding: 40px;
-    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.075);
+    box-shadow: 0px 2px 10px rgb(250, 250, 250);
     height: 100%;
 }
 
@@ -190,7 +181,7 @@ body{
 .page-footer a{
     display: inline-block;
     margin: 0px 10px;
-    color: #282b2d;
+    color: #ffffff;
     font-size: 18px;
 }
 
@@ -214,7 +205,7 @@ body{
     display: inline-block;
     height: 36px;
     text-align: center;
-    background-color: #c5c9d2;
+    background-color: #ff0000;
     line-height: 34px;
 }
 
@@ -243,4 +234,17 @@ body{
     .portfolio-navbar.fixed-top + .page{
         padding-top: 6rem;
     }
+}
+
+/* untuk portfolio */
+.tm-nav-link {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    border: 1px solid #D2D3D4;
+    color: #999;
+    box-sizing: border-box;
 }
